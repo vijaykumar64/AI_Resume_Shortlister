@@ -1,8 +1,9 @@
 streamlit
-sentence-transformers
-scikit-learn
 pandas
 numpy
+scikit-learn
+joblib
 PyMuPDF
-pdfminer.six
-
+PyPDF2
+sentence-transformers
+torch
